@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @PatriciaPineli2325
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Boas boas vindas ao meu perfil 💙
+Meu nome é Patrícia Pineli
 
-<!---
-PatriciaPineli2325/PatriciaPineli2325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+Você pode entrar em contato comigo :mailbox
+patriciapineli@prof.educacao.sp.gov.br
+
+![](https://media.tenor.com/BZ8PcPP_SVEAAAAi/teach-professor.gif)
+
+
+
+
